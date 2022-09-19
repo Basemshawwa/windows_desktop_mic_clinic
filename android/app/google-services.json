@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "281752654218",
+    "project_id": "eqraclinic",
+    "storage_bucket": "eqraclinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281752654218:android:7a46c47ab3a574a1a0f873",
+        "android_client_info": {
+          "package_name": "com.eqra.eqra_clinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281752654218-7n2jitgdg5046jotg5bolfp2n03lflkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZ46jb0cQzBfklTIjLBhFAEWewJapf38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281752654218-7n2jitgdg5046jotg5bolfp2n03lflkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281752654218-71dhh9qpdp0tv6ictn1u6lffleia7evl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eqra.eqraClinicApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281752654218:android:670055faa192b82fa0f873",
+        "android_client_info": {
+          "package_name": "com.example.desktop_mic_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281752654218-7n2jitgdg5046jotg5bolfp2n03lflkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZ46jb0cQzBfklTIjLBhFAEWewJapf38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281752654218-7n2jitgdg5046jotg5bolfp2n03lflkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281752654218-71dhh9qpdp0tv6ictn1u6lffleia7evl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eqra.eqraClinicApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
